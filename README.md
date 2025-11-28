@@ -1,5 +1,5 @@
 # vim-vscpp
-A Visual Studio C++–inspired dark colorscheme for Vim
+A Visual Studio C++–inspired dark colorscheme for Vim (VC++ style)
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot from 2025-11-29 00-21-12" src="https://github.com/user-attachments/assets/37a76f66-5a22-4903-85f6-5dec4e2be302" />
