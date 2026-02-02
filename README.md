@@ -1,4 +1,8 @@
 # vim-vscpp
+
+> [!NOTE]
+> This repository contains AI-generated content for reference only.
+
 A Visual Studio C++–inspired dark colorscheme for Vim (VC++ style)
 
 ## Screenshots
